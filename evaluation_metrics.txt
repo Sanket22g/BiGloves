@@ -1,0 +1,36 @@
+=== BiGlove Model Evaluation Metrics ===
+
+Random Forest Test Accuracy: 100.00%
+Neural Network Test Accuracy: 100.00%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    all_good     1.0000    1.0000    1.0000       100
+    be_quiet     1.0000    1.0000    1.0000       100
+   come_here     1.0000    1.0000    1.0000       100
+   give_food     1.0000    1.0000    1.0000       100
+        idle     1.0000    1.0000    1.0000       100
+   need_help     1.0000    1.0000    1.0000       100
+     perfect     1.0000    1.0000    1.0000       100
+     promise     1.0000    1.0000    1.0000       100
+       sorry     1.0000    1.0000    1.0000       100
+  take_photo     1.0000    1.0000    1.0000       100
+   well_done     1.0000    1.0000    1.0000       100
+
+    accuracy                         1.0000      1100
+   macro avg     1.0000    1.0000    1.0000      1100
+weighted avg     1.0000    1.0000    1.0000      1100
+
+Confusion Matrix:
+[[100   0   0   0   0   0   0   0   0   0   0]
+ [  0 100   0   0   0   0   0   0   0   0   0]
+ [  0   0 100   0   0   0   0   0   0   0   0]
+ [  0   0   0 100   0   0   0   0   0   0   0]
+ [  0   0   0   0 100   0   0   0   0   0   0]
+ [  0   0   0   0   0 100   0   0   0   0   0]
+ [  0   0   0   0   0   0 100   0   0   0   0]
+ [  0   0   0   0   0   0   0 100   0   0   0]
+ [  0   0   0   0   0   0   0   0 100   0   0]
+ [  0   0   0   0   0   0   0   0   0 100   0]
+ [  0   0   0   0   0   0   0   0   0   0 100]]

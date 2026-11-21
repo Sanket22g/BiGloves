@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & runtime
+__pycache__/
+*.py[cod]
+*$py.class
+.keras/
+
+# Intermediate model test files
+gesture_model_v1.tflite
+gesture_model_v9.tflite
+dataset copy.csv
+
+# Audio cache generated during local tests
+audio_mr/
+
+# Gradle & Android build caches
+.gradle/
+build/
+android_app/.gradle/
+android_app/build/
+android_app/**/build/
+
+# Unrelated doc files
+Singapore_AI_ML_Startup_Outreach_50.docx
+nidhis_construction.py

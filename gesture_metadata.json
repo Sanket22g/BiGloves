@@ -1,0 +1,57 @@
+{
+  "idle": {
+    "marathi": "हात सैल",
+    "english": "Relaxed Hand",
+    "tts": "हात सैल"
+  },
+  "all_good": {
+    "marathi": "ठीक आहे",
+    "english": "All Good (Thumbs Up)",
+    "tts": "ठीक आहे"
+  },
+  "be_quiet": {
+    "marathi": "शांतता",
+    "english": "Be Quiet",
+    "tts": "शांतता"
+  },
+  "take_photo": {
+    "marathi": "फोटो काढ",
+    "english": "Take a Photo (V-Sign)",
+    "tts": "फोटो काढ"
+  },
+  "perfect": {
+    "marathi": "उत्तम",
+    "english": "Perfect (OK Sign)",
+    "tts": "उत्तम"
+  },
+  "well_done": {
+    "marathi": "शाब्बास",
+    "english": "Well Done (Fist)",
+    "tts": "शाब्बास"
+  },
+  "promise": {
+    "marathi": "प्रॉमिस / शब्द दे",
+    "english": "Promise",
+    "tts": "प्रॉमिस"
+  },
+  "give_food": {
+    "marathi": "जेवायला दे",
+    "english": "Give me Food",
+    "tts": "जेवायला दे"
+  },
+  "come_here": {
+    "marathi": "इकडे या",
+    "english": "Come Here",
+    "tts": "इकडे या"
+  },
+  "need_help": {
+    "marathi": "मदत हवी",
+    "english": "Need Help",
+    "tts": "मदत हवी"
+  },
+  "sorry": {
+    "marathi": "माफ करा",
+    "english": "Sorry",
+    "tts": "माफ करा"
+  }
+}

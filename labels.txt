@@ -1,0 +1,11 @@
+all_good
+be_quiet
+come_here
+give_food
+idle
+need_help
+perfect
+promise
+sorry
+take_photo
+well_done

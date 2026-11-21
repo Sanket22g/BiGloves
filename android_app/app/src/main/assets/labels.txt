@@ -1,0 +1,3 @@
+hello
+idle
+thank_you
